@@ -1,0 +1,2 @@
+1)dishes in menu are pizzas. They are represented by dictionaries. First version includes pizza name, price. Thing to add are: ingredients (as a list), price for small size, big size, availibility
+2)waiter asks for number of people, then collects order asking everyone seperately. then asks about drinks. 
